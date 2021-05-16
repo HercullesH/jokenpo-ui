@@ -1,0 +1,43 @@
+.br-20 {
+  border-radius: 20px;
+}
+
+.b-blue {
+  background-color: #3498DB;
+}
+
+.b-white {
+  background-color: white;
+}
+
+.b-red {
+  background-color: red;
+}
+
+.p2 {
+  background-color: red;
+}
+
+.br-10 {
+  border-radius: 10px;
+}
+
+img {
+  transform: scale(0.8);
+}
+.cursor-img {
+  cursor: pointer;
+}
+
+.cursor-img:hover {
+  transition-duration: 0.4s;
+  background-color: white;
+}
+
+.result-img {
+  transform: scale(0.1);
+}
+
+.b-green {
+  background-color: #2ECC71;
+}
